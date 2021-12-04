@@ -3,14 +3,14 @@
   <title>Hexo</title>
   
   
-  <link href="https://zhidaguo.github.io/guozhida.github.io/atom.xml" rel="self"/>
+  <link href="https://guozhida.github.io/atom.xml" rel="self"/>
   
-  <link href="https://zhidaguo.github.io/guozhida.github.io/"/>
+  <link href="https://guozhida.github.io/"/>
   <updated>2021-12-04T07:50:26.667Z</updated>
-  <id>https://zhidaguo.github.io/guozhida.github.io/</id>
+  <id>https://guozhida.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>guozhida</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://zhidaguo.github.io/guozhida.github.io/2021/12/04/hello-world/"/>
-    <id>https://zhidaguo.github.io/guozhida.github.io/2021/12/04/hello-world/</id>
+    <link href="https://guozhida.github.io/2021/12/04/hello-world/"/>
+    <id>https://guozhida.github.io/2021/12/04/hello-world/</id>
     <published>2021-12-04T07:50:26.667Z</published>
     <updated>2021-12-04T07:50:26.667Z</updated>
     
